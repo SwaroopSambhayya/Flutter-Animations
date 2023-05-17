@@ -1,4 +1,4 @@
-import 'package:card_animation/components/creditcard.dart';
+import 'package:card_animation/card_animation/components/creditcard.dart';
 import 'package:flutter/material.dart';
 
 class CardAnimationView extends StatefulWidget {

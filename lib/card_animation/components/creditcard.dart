@@ -1,5 +1,5 @@
-import 'package:card_animation/constants.dart';
-import 'package:card_animation/utils.dart';
+import 'package:card_animation/card_animation/constants.dart';
+import 'package:card_animation/card_animation/utils.dart';
 import 'package:flutter/material.dart';
 
 class CreditCard extends StatefulWidget {
